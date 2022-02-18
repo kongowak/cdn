@@ -1001,7 +1001,7 @@ var WebSocketClient = /*#__PURE__*/function () {
   \********************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-var __resourceQuery = "?protocol=auto%3A&username=&password=&hostname=localhost&port=4201&pathname=%2Fws&logging=info&reconnect=10";
+var __resourceQuery = "?protocol=auto%3A&username=&password=&hostname=https://cdn.jsdelivr.net/gh/kongowak/cdn/&port=80&pathname=%2Fws&logging=info&reconnect=10";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var webpack_hot_log_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! webpack/hot/log.js */ 1877);
 /* harmony import */ var webpack_hot_log_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(webpack_hot_log_js__WEBPACK_IMPORTED_MODULE_0__);
